@@ -16,7 +16,7 @@ header {
   position: sticky;
 }
 
-header>h1 main {
+main {
   height: 90vh;
   display: flex;
   justify-content: center;
